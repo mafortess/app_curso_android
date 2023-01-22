@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgendaBD</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Teléfono:</string>
+    <string name="hint_correo">Correo Electrónico:</string>
+    <string name="boton_guarda">Guardar</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+    <string name="crearBD">CREAR BASE DE DATOS</string>
+</resources>
